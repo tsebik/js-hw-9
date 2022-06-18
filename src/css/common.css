@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fafafa;
+  color: #212121;
+  line-height: 1.5;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.field {
+  display: inline-block;
+}
+
+.value {
+  display: inline-block;
+
+  font-size: 40px;
+  margin: 0px 10px;
+}
+
+.label {
+  display: block;
+  margin-left: 10px;
+
+  font-size: 16px;
+}
+
+#datetime-picker {
+  margin-left: 10px;
+}
+
+
+
+
